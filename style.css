@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+    padding: 0;
+
+}
+body{
+    width: 100vw;
+    height: 100vw;
+background-image: url(oxana-v-qoAIlAmLJBU-unsplash.jpg); 
+background-size: cover;
+background-position: bottom;
+}
+
+
+div{
+    padding: 25px;
+    box-shadow: 0 2px 8px;
+    position: absolute;
+    left: 50%;
+transform: translateX(-50%);
+background-color: rgb(255, 255, 255);
+}
+h1{
+    text-align: center;
+    margin: 25px 0;
+    color:rgb(0, 0, 0);
+}
